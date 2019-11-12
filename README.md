@@ -1,2 +1,5 @@
 # math-adventure
-Coming...
+
+Velkommen til Matematikk-eventyret
+
+
